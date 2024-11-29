@@ -1,0 +1,7 @@
+9.6054: Plain resnet from torchvision with 100 epochs
+9.4836: Plain resnet from torchvision with 200 epochs
+9.396: Improved resnet with ratio-controlled pooling with 100 epochs
+9.1: 500 epochs
+8.8017: smaller resnet: last resblock removed
+8.4708: reshape input to be 2*128*408
+7.7837: reshape to 1*256*408, with ratio-aware pooloing
