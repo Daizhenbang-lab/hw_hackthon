@@ -1,0 +1,14 @@
+data/
+wandb/
+__pycache__
+.DS_Store
+.idea
+*.out
+*.npz
+*.npy
+*.pt
+*.pth
+checkpoints/
+# Local model checkpoints and training logs
+*.ckpt
+lightning_logs/
